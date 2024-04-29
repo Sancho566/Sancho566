@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Tapfuma Arnold Mundondo!
-https://twitter.com/home?lang=en
+
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fhome%3Flang%3Den&style=social)
 
 A Software Developer specializing in CSS and Javascript technologies. Professional experience with the technologies listed in the toolbox below.
 
@@ -25,11 +26,14 @@ I managed to create an online presence with my Blog and Youtube channel. Looking
 
 ---
 
-📚📙Latest blog articles
+How to reach me:
 
-<!-- BLOG-ARTICLES-LIST:START -->
+Linkedin: https://www.linkedin.com/in/tapfuma-arnold-mundondo-27180a257/
 
-<!-- BLOG-ARTICLES-LIST:END -->
+Twitter: https://twitter.com/home?lang=en
+
+Email: tapfumamundondo@gmail.com
+
 
 
 
