@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Tapfuma Arnold Mundondo!
 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fhome%3Flang%3Den&style=social)
-
 A Software Developer specializing in CSS and Javascript technologies. Professional experience with the technologies listed in the toolbox below.
 
 I create tech content, mostly about web Development and Javascript, but I also talk other topics like coding. I'd advise you to subscribe to stay up to date!
@@ -16,21 +14,11 @@ I managed to create an online presence with my Blog and Youtube channel. Looking
 
 ---
 
-📺Latest Youtube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-
-<!-- YOUTBE-VIDEOS-LIST:END -->
-
-▶️More Youtube Videos https://www.youtube.com/@tapfumamundondo8256/featured
-
----
-
 How to reach me:
 
-Linkedin: https://www.linkedin.com/in/tapfuma-arnold-mundondo-27180a257/
+Phone number: +27 677 805 891
 
-Twitter: https://twitter.com/home?lang=en
+Linkedin: https://www.linkedin.com/in/tapfuma-arnold-mundondo-7a3573329
 
 Email: tapfumamundondo@gmail.com
 
