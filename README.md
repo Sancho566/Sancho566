@@ -1,10 +1,8 @@
 ### Hi there 👋, I am Tapfuma Arnold Mundondo!
 
-A Software Developer specializing in CSS and Javascript technologies. Professional experience with the technologies listed in the toolbox below.
-
-I create tech content, mostly about web Development and Javascript, but I also talk other topics like coding. I'd advise you to subscribe to stay up to date!
-
-I managed to create an online presence with my Blog and Youtube channel. Looking forward to reaching and helping more people by sharing my knowledge.
+A Software Developer specializing in JavaScript, React.js, and
+modern CSS frameworks like Tailwind CSS and Bootstrap. Skilled in building responsive, user-friendly
+web applications and integrating RESTful APIs. Passionate about solving problems and delivering high- quality user experiences. Professional experience with the technologies listed in the toolbox below.
 
 ---
 
